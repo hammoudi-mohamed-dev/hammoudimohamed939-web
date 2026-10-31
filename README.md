@@ -23,7 +23,7 @@ Like many who didn't get the chance to study exactly what they wanted, I am curr
 
 ### 🌐 Connect with Me
 - 💼 **LinkedIn:** [mohamed-hammoudi-dev](https://linkedin.com)
-- 💻 **GitHub:** [hammoudimohamed939-web](https://github.com)
+- 💻 **GitHub:** [hammoudi-mohamed-dev](https://github.com)
 
 ---
 
